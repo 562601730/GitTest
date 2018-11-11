@@ -2,4 +2,4 @@ Git is distributed version control system.
 Git is free software.
 Git is great.
 Git tracks changes of files.
-Creating a branch is quick & sipmle.
+Creating a branch is quick and simple.
